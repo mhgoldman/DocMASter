@@ -22,7 +22,7 @@ The Custom Office module enables MAS administrators to customize forms within th
 
 "C:\Program Files(x86)\Total Machine Solutions\DocMASter\DocMASter.exe" [RecordType] [RecordID]
 
-Replace <<RecordType>> with the type of Sage 100 record (e.g. SalesOrder). Custom Office must be configured to replace the <<RecordID>> placeholder with the ID of the record being accessed.
+Replace [RecordType] with the type of Sage 100 record (e.g. SalesOrder). Custom Office must be configured to replace the [RecordID] placeholder with the ID of the record being accessed.
 
 #### Client Preparation
 The DocMASter package built previously must be installed on every client and the install path must be the same on all clients.
